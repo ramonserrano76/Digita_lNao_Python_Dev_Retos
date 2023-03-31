@@ -7,7 +7,6 @@ build/
 # Ignorar el archivo config.ini
 config.ini
 
-<<<<<<< HEAD
-=======
+# Ignorar el directorio my_env/
+
 my_env/
->>>>>>> 5e8160b3b0f00506b7eb850734444cb90751461c
