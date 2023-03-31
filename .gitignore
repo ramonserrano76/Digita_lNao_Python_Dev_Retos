@@ -1,0 +1,9 @@
+# Ignorar todos los archivos .log
+*.log
+
+# Ignorar el directorio build/
+build/
+
+# Ignorar el archivo config.ini
+config.ini
+
